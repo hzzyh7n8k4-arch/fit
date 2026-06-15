@@ -1,4 +1,4 @@
-const CACHE_NAME = "clairfit-pwa-v8-outfit-logic";
+const CACHE_NAME = "clairfit-pwa-v9-mobile-visual-fix";
 const APP_SHELL = ["./", "./index.html", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
